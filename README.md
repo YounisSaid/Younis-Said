@@ -1,7 +1,7 @@
 Hi, I'm Younis Said! 
 🎯 Engineering Student|Aspiring Software Developer| Problem Solver
 
-Welcome to my GitHub! I'm passionate about software development, algorithms, and problem-solving. Currently, I'm honing my skills in Destop development and exploring different areas of programming.
+Welcome to my GitHub! I'm passionate about software development, algorithms, and problem-solving. Currently, I'm improving my skills in Desktop development and exploring different areas of programming.
 
 🚀 Skills & Technologies
 Programming Languages: C++, C#
